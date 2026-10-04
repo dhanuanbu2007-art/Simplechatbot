@@ -1,59 +1,77 @@
-# Simple TSA Chatbot
+# Simple TSA Chatbot – Text and Speech Analysis
 
-## Project Overview
+## Project Description
 
-The Simple TSA Chatbot is a rule-based conversational application designed to interact with users through text. It recognizes predefined keywords and provides appropriate responses, demonstrating the basic principles of chatbot development and Natural Language Processing.
+The Simple TSA Chatbot is a conversational application that interacts with users through text input and provides automated responses. It uses basic natural language processing techniques and predefined rules to identify user queries and generate relevant replies.
+
+The application demonstrates how chatbots can support simple communication and automated assistance.
 
 ## Features
 
-* Provides text-based conversations.
-* Recognizes predefined keywords.
-* Generates automated responses.
-* Handles basic greetings and questions.
-* Offers a simple and interactive chat interface.
+1. Text-Based Conversation
+2. Automated Response Generation
+3. Keyword-Based Query Recognition
+4. Interactive Chat Interface
+5. Basic Natural Language Processing
+6. User-Friendly Interface
 
 ## Technologies Used
 
 * Python
 * Google Colab
 * Gradio
-* Regular Expressions
 * Natural Language Processing (NLP)
 
-## How It Works
+## Requirements
 
-1. The user enters a message in the chatbot interface.
-2. The application processes the input text.
-3. Keywords and predefined patterns are identified.
-4. A suitable response is selected.
-5. The chatbot displays the response to the user.
+* Google account
+* Internet connection
+* Google Colab
+* Text input
 
-## Input
+## How to Run
 
-A text message entered by the user.
+1. Open Google Colab.
+2. Create a new notebook.
+3. Paste the application code into a code cell.
+4. Run the code.
+5. Open the Gradio application link.
+6. Enter a message in the chat interface.
+7. Submit the message.
+8. View the chatbot's response.
 
-**Example:**
-"Hello"
+## Sample Input
 
-## Output
+"Hello, how are you?"
 
-**Chatbot Response:**
-"Hello! How can I help you today?"
+## Expected Output
 
-The chatbot generates predefined responses based on recognized keywords and patterns.
+A predefined response from the chatbot based on the input message.
 
+## Project Workflow
+
+User Message
+↓
+Text Processing
+↓
+Keyword Recognition
+↓
+Response Selection
+↓
+Chatbot Reply
 
 ## Applications
 
 * Basic customer support
 * Educational assistance
-* Interactive learning
 * Automated responses
-* Conversational system demonstrations
+* Interactive learning
+* Frequently asked questions
+* Introduction to chatbot development
 
 ## Note
 
-This project uses predefined rules and responses rather than a large language model. Its conversational abilities are limited to the patterns and keywords implemented in the application.
+This application is developed for educational purposes as part of the Text and Speech Analysis (TSA) project. It uses predefined rules and may not understand complex questions or maintain context like advanced AI chatbots.
 
 ## Application Type
 
