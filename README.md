@@ -28,6 +28,21 @@ The Simple TSA Chatbot is a rule-based conversational application designed to in
 4. A suitable response is selected.
 5. The chatbot displays the response to the user.
 
+## Input
+
+A text message entered by the user.
+
+**Example:**
+"Hello"
+
+## Output
+
+**Chatbot Response:**
+"Hello! How can I help you today?"
+
+The chatbot generates predefined responses based on recognized keywords and patterns.
+
+
 ## Applications
 
 * Basic customer support
